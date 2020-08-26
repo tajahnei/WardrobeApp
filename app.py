@@ -12,7 +12,7 @@ WINDOW_HEIGHT = 500
 IMG_HEIGHT = 200
 IMG_WIDTH = 200
 BEIGE_COLOR_HEX = '#E3C396'
-SOUND_EFFECT_FILE_PATH = 'assets/yes-2.wav'
+SOUND_EFFECT_FILE_PATH = 'assets/candlelight.mp4'
 
 # dynamically open folders and make a list, while ignoring any hidden files that start with "."
 # just add any image file into these folders and they will magically appear in your wardrobe!
